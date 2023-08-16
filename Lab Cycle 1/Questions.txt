@@ -1,0 +1,10 @@
+1. Words
+2. Encryption
+3. Student records - validation
+4. Password generator
+5. Series summation
+6. Prime number checker
+7. Fibonacci(twist)
+8. Palindrome checker
+9. Data compression
+10. Data reversal
