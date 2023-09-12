@@ -1,3 +1,10 @@
+# 1. Print SQUARE of a NUMBER.
+# 2. Accept NAME and find the LENGTH.
+# 3. Accept a vector and find :
+#  a. Sum 
+#  b. Maximum element
+#  c. Minimum element
+
 square <- function(n){
   n <- as.integer(n)
   print(paste("Square of the number : ",n*n))
