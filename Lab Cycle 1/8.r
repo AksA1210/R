@@ -1,9 +1,5 @@
 #PALINDROME CHECKER
-# Question 1 : Develop a program to read a paragraph of text and perform the following tasks:
-# 1. Count the total no: of words
-# 2. Calculate the average word length
-# 3. Identify and print the longest word
-# 4. Replace all occurrences of a specific word with another word of your choice.
+
 
 word = readline(prompt = "Enter a sentence : ")
 
