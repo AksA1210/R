@@ -10,7 +10,6 @@ palindrome_check <- function(x1){
   }else{
     print("Not a palindrome")
   }
-  
 }
 print("***PALINDROME CHECKER***")
 x1<-readline(prompt = "Enter a word : ")
